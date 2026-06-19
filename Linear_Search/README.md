@@ -14,7 +14,7 @@ A curated list of beginner-friendly Codeforces problems to master:
 
 | #  | Problem                              | Link                                                    | Solution |
 | -- | ------------------------------------ | ------------------------------------------------------- | -------- |
-| 1  | Is your horseshoe on the other hoof? | [228A](https://codeforces.com/problemset/problem/228/A) | ❌        |
+| 1  | Is your horseshoe on the other hoof? | [228A](https://codeforces.com/problemset/problem/228/A) |   [Code](A_Is_your_horseshoe_on_the_other_hoof.cpp)       |
 | 2  | Boy or Girl                          | [236A](https://codeforces.com/problemset/problem/236/A) | ❌        |
 | 3  | Anton and Danik                      | [734A](https://codeforces.com/problemset/problem/734/A) | ❌        |
 | 4  | Mishka and Game                      | [703A](https://codeforces.com/problemset/problem/703/A) | ❌        |
